@@ -1,4 +1,4 @@
-Musical helath
+Musical health
 ==============
 This is an experimental PHP webapp that connects to FitBit API to take user's activity and perform it into music.
 
