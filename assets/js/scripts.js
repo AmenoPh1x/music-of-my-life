@@ -1,2 +1,1 @@
-console.log('asd');
-
+T("sin", {freq: 880, mul: 0.5}).play();

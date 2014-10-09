@@ -21,7 +21,7 @@
     </head>
     <body>
         <div id="wrapper">
-            
+            <audio src="explosion.mp3" controls="on"/>
         </div>
 
         <!-- jQuery (http://api.jquery.com/) -->
