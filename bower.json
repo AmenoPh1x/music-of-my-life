@@ -1,7 +1,0 @@
-{
-  "name": "Musical health",
-  "version": "0.0.1",
-  "dependencies": {
-    "bootstrap": "git://github.com/twbs/bootstrap.git"
-  }
-}
