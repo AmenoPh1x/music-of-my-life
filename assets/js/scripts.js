@@ -1,1 +1,1 @@
-T("sin", {freq: 880, mul: 0.5}).play();
+//T("sin", {freq: 880, mul: 0.5}).play();

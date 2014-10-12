@@ -7,11 +7,11 @@
         <title>Music of my life</title>
 
         <!-- Bootstrap -->
-        <link href="assets/bootstrap/css/bootstrap.min.css"/>
-        <link href="assets/bootstrap/css/bootstrap-theme.min.css"/>
+        <link type="text/css" rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"/>
+        <link type="text/css" rel="stylesheet" href="assets/bootstrap/css/bootstrap-theme.min.css"/>
         <!-- Music of my life -->
-        <link href="assets/css/styles.css"/>
-        
+        <link type="text/css" rel="stylesheet" href="assets/css/styles.css"/>
+
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -21,7 +21,7 @@
     </head>
     <body>
         <div id="wrapper">
-            <audio src="explosion.mp3" controls="on"/>
+            <a href="fitbit-login.php" class="btn btn-primary">Login with FitBit</a>
         </div>
 
         <!-- jQuery (http://api.jquery.com/) -->
